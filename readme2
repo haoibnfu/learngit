@@ -1,4 +1,8 @@
 this is backup git
+<<<<<<< HEAD
 use this 
 add some chars
 agane add some char
+=======
+use this stupid method can study git
+>>>>>>> 286e84e27561a5504513172190136c1247c7c452

@@ -1,3 +1,7 @@
 this thrid file use git
 you know>\?
+<<<<<<< HEAD
 git this one 
+=======
+jiushi zheyang 
+>>>>>>> featurel

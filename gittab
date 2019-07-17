@@ -6,3 +6,8 @@ git branch -b dev
 git branch -d dev
 git push
 git clone git@github.com:haoibnfu\learngit.git
+git log
+git reset --hard HEAD^
+git reflog
+git diff HEAD -- readme.txt
+rm

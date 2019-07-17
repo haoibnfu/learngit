@@ -11,3 +11,5 @@ git reset --hard HEAD^
 git reflog
 git diff HEAD -- readme.txt
 rm
+git log --graph
+git commit -m "github successy"
